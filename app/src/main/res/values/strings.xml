@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobile-frontend-example-2</string>
+
+    <string name="hello_world_key">Hello World!</string>
+    <string name="name_hint">Please enter your name</string>
+    <string name="hello_button_label">Say hello</string>
+</resources>
